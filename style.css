@@ -1,3 +1,76 @@
 body {
   margin: 60px;
+  height: 100%;
+
+  background-color: rgb(213, 224, 231);
+}
+
+.header {
+  padding: 60px 30px 30px 30px;
+  text-align: center;
+}
+
+.center {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+
+.smaller-image {
+  width: 200px;
+  border-radius: 50px;
+}
+
+h1 {
+  font-family: Julius Sans One, Monospace;
+  font-size: 50px;
+}
+
+h2 {
+  font-family: Dosis, Monospace;
+  font-size: 30px;
+}
+
+p {
+  font-family: Open Sans, Monospace;
+  font-size: 18px;
+}
+
+
+.fa {
+ padding: 10px;
+ font-size: 30px;
+ width: 60px;
+ text-align: center;
+ text-decoration: none;
+}
+
+.fa:hover {
+ opacity: 0.7;
+}
+
+.fa-twitter {
+ background: #55ACEE;
+ color: white;
+}
+
+.fa-linkedin {
+ background: #007bb5;
+ color: white;
+}
+
+.fa-free-code-camp {
+ background: #006400;
+ color: white;
+}
+
+.fa-github {
+ background:#333;
+ color: white;
+}
+
+.fa-envelope {
+ background: #FFCE04;
+ color: white;
 }
